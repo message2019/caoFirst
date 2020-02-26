@@ -5,3 +5,5 @@ add in master
 add in kobe
 add in dev1
 bug404 complete
+add before stash
+
